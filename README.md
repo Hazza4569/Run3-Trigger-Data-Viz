@@ -12,7 +12,7 @@ histogram.
 
 Data for two runs is included. For an interpretation of these results
 and the differences between these runs see my
-[thesis](https://raw.githubusercontent.com/Hazza4569/thesis/refs/heads/master/thesis.pdf#page=#72).
+[thesis](https://raw.githubusercontent.com/Hazza4569/thesis/refs/heads/master/thesis.pdf#page=72).
 
 ## Plots
 
