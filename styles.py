@@ -1,0 +1,21 @@
+from matplotlib.pyplot import rcParams
+rcParams.update({
+    'xtick.major.size': 7,
+    'xtick.minor.size': 5,
+    'ytick.major.size': 7,
+    'ytick.minor.size': 5,
+    'xtick.major.width': 1.0,
+    'xtick.minor.width': 1.0,
+    'ytick.major.width': 1.0,
+    'ytick.minor.width': 1.0,
+    'xtick.top':    True,
+    'xtick.bottom': True,
+    'ytick.left':   True,
+    'ytick.right':  True,
+    'ytick.direction':  'in',
+    'xtick.direction':  'in',
+    'font.size':  14,
+    'figure.figsize': (8,6),
+    'axes.linewidth': 1.0,
+    'axes.xmargin': 0,
+})
