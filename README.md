@@ -12,14 +12,14 @@ histogram.
 
 Data for two runs is included. For an interpretation of these results
 and the differences between these runs see my
-[thesis](https://raw.githubusercontent.com/Hazza4569/thesis/refs/heads/master/thesis.pdf#page=72).
+[thesis](https://raw.githubusercontent.com/hacooke/thesis/refs/heads/master/thesis.pdf#page=72).
 
 ## Plots
 
-![Trigger object energy comparison for Run 423433](https://github.com/Hazza4569/Run3-Trigger-Data-Viz/blob/master/plots/matcheshist_423433.png?raw=true)
+![Trigger object energy comparison for Run 423433](https://github.com/hacooke/Run3-Trigger-Data-Viz/blob/master/plots/matcheshist_423433.png?raw=true)
 
-![Trigger object energy comparison for Run 427885](https://github.com/Hazza4569/Run3-Trigger-Data-Viz/blob/master/plots/matcheshist_427885.png?raw=true)
+![Trigger object energy comparison for Run 427885](https://github.com/hacooke/Run3-Trigger-Data-Viz/blob/master/plots/matcheshist_427885.png?raw=true)
 
-![Match rate of objects for Run 423433](https://github.com/Hazza4569/Run3-Trigger-Data-Viz/blob/master/plots/matchrate_423433_eFEX.png?raw=true)
+![Match rate of objects for Run 423433](https://github.com/hacooke/Run3-Trigger-Data-Viz/blob/master/plots/matchrate_423433_eFEX.png?raw=true)
 
-![Match rate of objects for Run 427885](https://github.com/Hazza4569/Run3-Trigger-Data-Viz/blob/master/plots/matchrate_427885_eFEX.png?raw=true)
+![Match rate of objects for Run 427885](https://github.com/hacooke/Run3-Trigger-Data-Viz/blob/master/plots/matchrate_427885_eFEX.png?raw=true)
